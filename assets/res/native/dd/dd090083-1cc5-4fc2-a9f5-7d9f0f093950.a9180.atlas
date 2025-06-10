@@ -1,0 +1,41 @@
+
+he_cheng.png
+size: 288,113
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang_ban
+  rotate: false
+  xy: 112, 4
+  size: 104, 107
+  orig: 108, 108
+  offset: 3, 1
+  index: -1
+guang_dian
+  rotate: false
+  xy: 257, 24
+  size: 29, 29
+  orig: 31, 31
+  offset: 1, 1
+  index: -1
+guang_qiu
+  rotate: false
+  xy: 218, 55
+  size: 56, 56
+  orig: 58, 58
+  offset: 1, 1
+  index: -1
+guang_quan
+  rotate: false
+  xy: 2, 2
+  size: 108, 109
+  orig: 109, 110
+  offset: 1, 0
+  index: -1
+xx
+  rotate: false
+  xy: 218, 15
+  size: 37, 38
+  orig: 41, 44
+  offset: 2, 3
+  index: -1

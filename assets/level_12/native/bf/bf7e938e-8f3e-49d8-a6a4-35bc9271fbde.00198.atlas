@@ -1,0 +1,13 @@
+
+bg12.png
+size: 1004,1704
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+18_1
+  rotate: false
+  xy: 2, 2
+  size: 1000, 1700
+  orig: 1000, 1700
+  offset: 0, 0
+  index: -1

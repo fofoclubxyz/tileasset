@@ -1,0 +1,34 @@
+
+bg7.png
+size: 367,644
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11bj1
+  rotate: false
+  xy: 2, 389
+  size: 337, 253
+  orig: 337, 253
+  offset: 0, 0
+  index: -1
+11bj2
+  rotate: false
+  xy: 2, 200
+  size: 304, 187
+  orig: 304, 187
+  offset: 0, 0
+  index: -1
+11bj7
+  rotate: false
+  xy: 216, 2
+  size: 149, 196
+  orig: 149, 198
+  offset: 0, 0
+  index: -1
+11bj8
+  rotate: true
+  xy: 2, 16
+  size: 182, 212
+  orig: 182, 212
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+bg5.png
+size: 16,105
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yan
+  rotate: false
+  xy: 2, 2
+  size: 12, 101
+  orig: 12, 101
+  offset: 0, 0
+  index: -1

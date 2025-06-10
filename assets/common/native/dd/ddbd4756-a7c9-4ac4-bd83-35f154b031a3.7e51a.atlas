@@ -1,0 +1,146 @@
+
+bao_zhu.png
+size: 724,543
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang_huang
+  rotate: false
+  xy: 158, 2
+  size: 161, 149
+  orig: 180, 180
+  offset: 6, 16
+  index: -1
+guang_qiu
+  rotate: false
+  xy: 483, 314
+  size: 56, 56
+  orig: 58, 58
+  offset: 1, 1
+  index: -1
+huo_hua_0
+  rotate: true
+  xy: 321, 3
+  size: 154, 108
+  orig: 240, 200
+  offset: 8, 47
+  index: -1
+huo_hua_1
+  rotate: false
+  xy: 554, 35
+  size: 160, 111
+  orig: 240, 200
+  offset: 9, 46
+  index: -1
+huo_hua_10
+  rotate: false
+  xy: 554, 256
+  size: 168, 114
+  orig: 240, 200
+  offset: 10, 41
+  index: -1
+huo_hua_11
+  rotate: true
+  xy: 478, 372
+  size: 169, 117
+  orig: 240, 200
+  offset: 11, 41
+  index: -1
+huo_hua_12
+  rotate: true
+  xy: 431, 3
+  size: 174, 121
+  orig: 240, 200
+  offset: 11, 40
+  index: -1
+huo_hua_13
+  rotate: true
+  xy: 359, 361
+  size: 180, 117
+  orig: 240, 200
+  offset: 13, 40
+  index: -1
+huo_hua_14
+  rotate: true
+  xy: 364, 179
+  size: 180, 117
+  orig: 240, 200
+  offset: 13, 40
+  index: -1
+huo_hua_2
+  rotate: true
+  xy: 597, 376
+  size: 165, 112
+  orig: 240, 200
+  offset: 10, 49
+  index: -1
+huo_hua_3
+  rotate: true
+  xy: 242, 359
+  size: 182, 115
+  orig: 240, 200
+  offset: 9, 52
+  index: -1
+huo_hua_4
+  rotate: true
+  xy: 122, 153
+  size: 188, 117
+  orig: 240, 200
+  offset: 9, 52
+  index: -1
+huo_hua_5
+  rotate: true
+  xy: 2, 142
+  size: 198, 118
+  orig: 240, 200
+  offset: 9, 50
+  index: -1
+huo_hua_6
+  rotate: true
+  xy: 2, 342
+  size: 199, 118
+  orig: 240, 200
+  offset: 9, 50
+  index: -1
+huo_hua_7
+  rotate: true
+  xy: 122, 343
+  size: 198, 118
+  orig: 240, 200
+  offset: 10, 49
+  index: -1
+huo_hua_8
+  rotate: true
+  xy: 241, 159
+  size: 182, 121
+  orig: 240, 200
+  offset: 8, 44
+  index: -1
+huo_hua_9
+  rotate: false
+  xy: 554, 148
+  size: 161, 106
+  orig: 240, 200
+  offset: 9, 42
+  index: -1
+pao_1
+  rotate: true
+  xy: 2, 2
+  size: 138, 154
+  orig: 138, 154
+  offset: 0, 0
+  index: -1
+pao_2
+  rotate: true
+  xy: 483, 181
+  size: 73, 46
+  orig: 73, 46
+  offset: 0, 0
+  index: -1
+pao_3
+  rotate: true
+  xy: 483, 258
+  size: 54, 53
+  orig: 54, 53
+  offset: 0, 0
+  index: -1

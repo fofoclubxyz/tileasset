@@ -1,0 +1,41 @@
+
+bg11.png
+size: 1051,454
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+16_1
+  rotate: true
+  xy: 597, 179
+  size: 273, 211
+  orig: 291, 213
+  offset: 0, 2
+  index: -1
+16_2
+  rotate: false
+  xy: 810, 225
+  size: 239, 227
+  orig: 239, 230
+  offset: 0, 3
+  index: -1
+16_3
+  rotate: false
+  xy: 2, 2
+  size: 593, 450
+  orig: 593, 450
+  offset: 0, 0
+  index: -1
+16_4
+  rotate: false
+  xy: 597, 17
+  size: 139, 160
+  orig: 139, 160
+  offset: 0, 0
+  index: -1
+16_5
+  rotate: true
+  xy: 810, 2
+  size: 221, 238
+  orig: 221, 238
+  offset: 0, 0
+  index: -1

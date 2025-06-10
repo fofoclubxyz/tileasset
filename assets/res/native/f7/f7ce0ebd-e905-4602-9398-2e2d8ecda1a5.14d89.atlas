@@ -1,0 +1,13 @@
+
+xing_xing.png
+size: 45,48
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xx
+  rotate: false
+  xy: 2, 2
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1

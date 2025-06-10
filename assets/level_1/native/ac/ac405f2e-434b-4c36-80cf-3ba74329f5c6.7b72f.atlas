@@ -1,0 +1,62 @@
+
+bg1.png
+size: 1389,612
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bo_lang
+  rotate: false
+  xy: 2, 2
+  size: 1002, 608
+  orig: 1002, 608
+  offset: 0, 0
+  index: -1
+lang_2
+  rotate: true
+  xy: 1328, 517
+  size: 93, 24
+  orig: 95, 27
+  offset: 1, 1
+  index: -1
+liang_1
+  rotate: true
+  xy: 1301, 444
+  size: 166, 25
+  orig: 169, 29
+  offset: 1, 2
+  index: -1
+ye_1
+  rotate: true
+  xy: 1292, 157
+  size: 279, 95
+  orig: 279, 95
+  offset: 0, 0
+  index: -1
+ye_2
+  rotate: false
+  xy: 1006, 438
+  size: 293, 172
+  orig: 293, 172
+  offset: 0, 0
+  index: -1
+ye_3
+  rotate: false
+  xy: 1006, 120
+  size: 272, 146
+  orig: 272, 146
+  offset: 0, 0
+  index: -1
+ye_ying_2
+  rotate: false
+  xy: 1006, 268
+  size: 284, 168
+  orig: 284, 168
+  offset: 0, 0
+  index: -1
+ye_ying_3
+  rotate: false
+  xy: 1006, 7
+  size: 267, 111
+  orig: 267, 111
+  offset: 0, 0
+  index: -1

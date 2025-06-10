@@ -1,0 +1,41 @@
+
+hua_ban.png
+size: 224,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hua_1
+  rotate: true
+  xy: 197, 112
+  size: 28, 25
+  orig: 31, 25
+  offset: 1, 0
+  index: -1
+ten
+  rotate: false
+  xy: 197, 22
+  size: 14, 32
+  orig: 17, 32
+  offset: 3, 0
+  index: -1
+wu
+  rotate: false
+  xy: 2, 2
+  size: 193, 138
+  orig: 200, 200
+  offset: 3, 21
+  index: -1
+xue_1
+  rotate: false
+  xy: 197, 89
+  size: 21, 21
+  orig: 31, 25
+  offset: 4, 2
+  index: -1
+ye_1
+  rotate: true
+  xy: 197, 56
+  size: 31, 18
+  orig: 31, 25
+  offset: 0, 3
+  index: -1

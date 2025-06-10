@@ -1,0 +1,27 @@
+
+bg10.png
+size: 1663,804
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: true
+  xy: 2, 2
+  size: 800, 1360
+  orig: 800, 1360
+  offset: 0, 0
+  index: -1
+item1
+  rotate: false
+  xy: 1364, 490
+  size: 297, 312
+  orig: 297, 312
+  offset: 0, 0
+  index: -1
+item2
+  rotate: false
+  xy: 1364, 232
+  size: 118, 256
+  orig: 118, 256
+  offset: 0, 0
+  index: -1

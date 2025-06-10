@@ -1,0 +1,27 @@
+
+bg2.png
+size: 269,178
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mao
+  rotate: false
+  xy: 2, 11
+  size: 207, 165
+  orig: 207, 165
+  offset: 0, 0
+  index: -1
+mao_wei
+  rotate: false
+  xy: 211, 83
+  size: 56, 93
+  orig: 56, 93
+  offset: 0, 0
+  index: -1
+mao_yan
+  rotate: true
+  xy: 211, 2
+  size: 79, 29
+  orig: 83, 29
+  offset: 4, 0
+  index: -1

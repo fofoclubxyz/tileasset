@@ -1,0 +1,27 @@
+
+bg6.png
+size: 910,601
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1001
+  rotate: true
+  xy: 670, 179
+  size: 420, 238
+  orig: 420, 239
+  offset: 0, 1
+  index: -1
+1002
+  rotate: false
+  xy: 2, 204
+  size: 666, 395
+  orig: 666, 396
+  offset: 0, 1
+  index: -1
+1003
+  rotate: false
+  xy: 2, 2
+  size: 521, 200
+  orig: 522, 201
+  offset: 0, 0
+  index: -1

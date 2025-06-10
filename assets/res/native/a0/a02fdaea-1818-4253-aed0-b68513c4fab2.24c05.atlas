@@ -1,0 +1,20 @@
+
+jian_to.png
+size: 716,604
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huang_jian_g_0
+  rotate: false
+  xy: 2, 141
+  size: 435, 461
+  orig: 600, 600
+  offset: 116, 70
+  index: -1
+huang_jian_h_0
+  rotate: false
+  xy: 439, 2
+  size: 275, 600
+  orig: 335, 600
+  offset: 13, 0
+  index: -1

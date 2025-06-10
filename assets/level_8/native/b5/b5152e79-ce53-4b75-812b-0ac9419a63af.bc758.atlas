@@ -1,0 +1,27 @@
+
+bg8.png
+size: 436,548
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+8beijing1
+  rotate: false
+  xy: 2, 2
+  size: 432, 306
+  orig: 454, 307
+  offset: 22, 1
+  index: -1
+8beijing2
+  rotate: true
+  xy: 169, 310
+  size: 236, 247
+  orig: 237, 247
+  offset: 0, 0
+  index: -1
+8beijing3
+  rotate: false
+  xy: 2, 430
+  size: 165, 116
+  orig: 170, 127
+  offset: 5, 0
+  index: -1

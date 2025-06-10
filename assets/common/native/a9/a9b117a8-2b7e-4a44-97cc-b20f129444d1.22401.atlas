@@ -1,0 +1,41 @@
+
+hua_kuai.png
+size: 313,188
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+block_-5
+  rotate: false
+  xy: 2, 6
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+hua_ban
+  rotate: false
+  xy: 235, 48
+  size: 62, 52
+  orig: 62, 52
+  offset: 0, 0
+  index: -1
+hua_xin
+  rotate: false
+  xy: 235, 2
+  size: 44, 44
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+xue
+  rotate: false
+  xy: 235, 102
+  size: 76, 84
+  orig: 76, 84
+  offset: 0, 0
+  index: -1
+ye_zi
+  rotate: true
+  xy: 184, 6
+  size: 180, 49
+  orig: 180, 49
+  offset: 0, 0
+  index: -1

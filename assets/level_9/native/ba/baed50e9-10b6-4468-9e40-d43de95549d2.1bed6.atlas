@@ -1,0 +1,27 @@
+
+bg9.png
+size: 793,513
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+9bj
+  rotate: true
+  xy: 2, 2
+  size: 509, 450
+  orig: 509, 450
+  offset: 0, 0
+  index: -1
+9bj1
+  rotate: false
+  xy: 454, 146
+  size: 337, 365
+  orig: 351, 369
+  offset: 0, 0
+  index: -1
+9bj5
+  rotate: true
+  xy: 454, 5
+  size: 139, 164
+  orig: 139, 168
+  offset: 0, 0
+  index: -1

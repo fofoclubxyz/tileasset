@@ -1,0 +1,41 @@
+
+bg3.png
+size: 918,404
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hu_die_jie
+  rotate: false
+  xy: 857, 347
+  size: 59, 55
+  orig: 59, 55
+  offset: 0, 0
+  index: -1
+piao_dai
+  rotate: false
+  xy: 659, 40
+  size: 257, 126
+  orig: 257, 126
+  offset: 0, 0
+  index: -1
+shen_ti
+  rotate: false
+  xy: 659, 168
+  size: 196, 234
+  orig: 199, 236
+  offset: 2, 1
+  index: -1
+wei_jing
+  rotate: true
+  xy: 659, 7
+  size: 31, 66
+  orig: 31, 66
+  offset: 0, 0
+  index: -1
+xue
+  rotate: true
+  xy: 2, 2
+  size: 400, 655
+  orig: 400, 670
+  offset: 0, 15
+  index: -1

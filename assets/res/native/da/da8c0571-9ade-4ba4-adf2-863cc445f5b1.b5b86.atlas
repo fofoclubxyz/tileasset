@@ -1,0 +1,104 @@
+
+tiao_wu_niu.png
+size: 441,186
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pao_1
+  rotate: false
+  xy: 368, 53
+  size: 40, 34
+  orig: 42, 36
+  offset: 1, 1
+  index: -1
+pao_11
+  rotate: true
+  xy: 204, 70
+  size: 114, 119
+  orig: 114, 119
+  offset: 0, 0
+  index: -1
+pao_12
+  rotate: false
+  xy: 305, 60
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+pao_13
+  rotate: false
+  xy: 368, 130
+  size: 37, 54
+  orig: 37, 54
+  offset: 0, 0
+  index: -1
+pao_14
+  rotate: false
+  xy: 368, 89
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+pao_15
+  rotate: false
+  xy: 410, 6
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+pao_3
+  rotate: false
+  xy: 405, 89
+  size: 27, 39
+  orig: 29, 41
+  offset: 1, 1
+  index: -1
+pao_4
+  rotate: true
+  xy: 305, 2
+  size: 30, 51
+  orig: 32, 53
+  offset: 1, 1
+  index: -1
+pao_5
+  rotate: false
+  xy: 407, 133
+  size: 29, 51
+  orig: 31, 53
+  offset: 1, 1
+  index: -1
+pao_6
+  rotate: true
+  xy: 204, 24
+  size: 44, 99
+  orig: 44, 99
+  offset: 0, 0
+  index: -1
+pao_7
+  rotate: false
+  xy: 2, 2
+  size: 200, 182
+  orig: 202, 184
+  offset: 1, 1
+  index: -1
+pao_8
+  rotate: true
+  xy: 358, 2
+  size: 30, 50
+  orig: 32, 52
+  offset: 1, 1
+  index: -1
+pao_9
+  rotate: false
+  xy: 410, 37
+  size: 29, 50
+  orig: 31, 52
+  offset: 1, 1
+  index: -1
+pao_ying
+  rotate: true
+  xy: 325, 34
+  size: 150, 41
+  orig: 151, 41
+  offset: 0, 0
+  index: -1
